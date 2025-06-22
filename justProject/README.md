@@ -1,12 +1,39 @@
-# React + Vite
+1. Todo List + Ödüllü Çark (Gamification)
+Görev tamamla, çark çevir, ödül kazan.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Motivasyon ve oyunlaştırma öğesi.
 
-Currently, two official plugins are available:
+2. Gerçek Zamanlı Chat Uygulaması
+WebSocket (Socket.io) ile canlı sohbet.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Grup sohbet, online kullanıcı sayısı gösterebilirsin.
 
-## Expanding the ESLint configuration
+3. Kişisel Finans Takipçisi
+Gelir-gider ekle, grafiklerle harcama analizi yap.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React + Chart.js veya Recharts kullan.
+
+4. Hava Durumu + Seyahat Rehberi
+API ile şehir bazlı hava durumu.
+
+Aynı sayfada popüler mekanlar, tavsiyeler.
+
+5. Film/Dizi Arama ve Favori Listesi
+TMDB API gibi bir kaynaktan film ara.
+
+Favorilere ekle, liste oluştur.
+
+6. Alışkanlık Takipçisi (Habit Tracker)
+Günlük alışkanlıkları işaretle, ilerlemeyi grafikle gör.
+
+Motivasyon mesajları ve bildirim.
+
+7. Quiz Uygulaması + Skor Tablosu
+Kendi sorularını ekle, cevapları değerlendir.
+
+Skor tablosu ile rekabet hissi.
+
+8. Markdown Not Defteri + Canlı Önizleme
+Kullanıcı Markdown formatında not alır, anında önizleme yapar.
+
+Notlar LocalStorage’da saklanır.
